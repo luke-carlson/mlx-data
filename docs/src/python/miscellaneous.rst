@@ -8,7 +8,7 @@ FileFetcher
 
 Several functions in MLX data can make use of a :class:`FileFetcher` object to
 fetch files from a remote location. See the `installation instructions
-<install.html>`_ to build MLX data with AWS support which adds the
+<../install.html>`_ to build MLX data with AWS support which adds the
 :class:`core.AWSFileFetcher` described below.
 
 .. autosummary::
